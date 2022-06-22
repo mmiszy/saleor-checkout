@@ -6,10 +6,23 @@ export interface AriaLabel {
   ariaLabel: string;
 }
 
-export type ValidationErrorCode = "invalid" | "required";
+export type ErrorCode =
+  | "invalid"
+  | "required"
+  | "unique"
+  | "quantityGreaterThanLimit"
+  | "insufficientStock"
+  | "invalidCredentials"
+  | PasswordErrorCode;
+
+export type PasswordErrorCode =
+  | "passwordTooShort"
+  | "passwordTooSimilar"
+  | "passwordTooCommon"
+  | "passwordInvalid";
 
 export interface ValidationError<TFormData> {
-  type: ValidationErrorCode;
+  type: ErrorCode;
   path: keyof TFormData;
   message: string;
 }
