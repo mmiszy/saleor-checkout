@@ -106,7 +106,7 @@ importers:
       json-easy-strip: ^1.0.6
       jsonwebtoken: ^8.5.1
       jwks-rsa: ^2.1.2
-      next: 12.1.6
+      next: 12.2.2
       next-transpile-modules: 9.0.0
       node-mocks-http: ^1.11.0
       raw-body: ^2.5.1
@@ -147,7 +147,7 @@ importers:
       jose: registry.npmjs.org/jose/4.8.3
       jsonwebtoken: registry.npmjs.org/jsonwebtoken/8.5.1
       jwks-rsa: registry.npmjs.org/jwks-rsa/2.1.4
-      next: registry.npmjs.org/next/12.1.6_qugu52izettqdqqm5qcjcltcia
+      next: registry.npmjs.org/next/12.2.2_qugu52izettqdqqm5qcjcltcia
       raw-body: registry.npmjs.org/raw-body/2.5.1
       react: registry.npmjs.org/react/18.2.0
       react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
@@ -4475,10 +4475,10 @@ packages:
       graphql: registry.npmjs.org/graphql/15.8.0
     dev: true
 
-  registry.npmjs.org/@next/env/12.1.6:
-    resolution: {integrity: sha512-Te/OBDXFSodPU6jlXYPAXpmZr/AkG6DCATAxttQxqOWaq6eDFX25Db3dK0120GZrSZmv4QCe9KsZmJKDbWs4OA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/env/-/env-12.1.6.tgz}
+  registry.npmjs.org/@next/env/12.2.2:
+    resolution: {integrity: sha512-BqDwE4gDl1F608TpnNxZqrCn6g48MBjvmWFEmeX5wEXDXh3IkAOw6ASKUgjT8H4OUePYFqghDFUss5ZhnbOUjw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/env/-/env-12.2.2.tgz}
     name: '@next/env'
-    version: 12.1.6
+    version: 12.2.2
     dev: false
 
   registry.npmjs.org/@next/eslint-plugin-next/12.2.2:
@@ -4488,10 +4488,10 @@ packages:
     dependencies:
       glob: registry.npmjs.org/glob/7.1.7
 
-  registry.npmjs.org/@next/swc-android-arm-eabi/12.1.6:
-    resolution: {integrity: sha512-BxBr3QAAAXWgk/K7EedvzxJr2dE014mghBSA9iOEAv0bMgF+MRq4PoASjuHi15M2zfowpcRG8XQhMFtxftCleQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-android-arm-eabi/12.2.2:
+    resolution: {integrity: sha512-VHjuCHeq9qCprUZbsRxxM/VqSW8MmsUtqB5nEpGEgUNnQi/BTm/2aK8tl7R4D0twGKRh6g1AAeFuWtXzk9Z/vQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.2.2.tgz}
     name: '@next/swc-android-arm-eabi'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm]
     os: [android]
@@ -4499,10 +4499,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-android-arm64/12.1.6:
-    resolution: {integrity: sha512-EboEk3ROYY7U6WA2RrMt/cXXMokUTXXfnxe2+CU+DOahvbrO8QSWhlBl9I9ZbFzJx28AGB9Yo3oQHCvph/4Lew==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-android-arm64/-/swc-android-arm64-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-android-arm64/12.2.2:
+    resolution: {integrity: sha512-v5EYzXUOSv0r9mO/2PX6mOcF53k8ndlu9yeFHVAWW1Dhw2jaJcvTRcCAwYYN8Q3tDg0nH3NbEltJDLKmcJOuVA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-android-arm64/-/swc-android-arm64-12.2.2.tgz}
     name: '@next/swc-android-arm64'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [android]
@@ -4510,10 +4510,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-darwin-arm64/12.1.6:
-    resolution: {integrity: sha512-P0EXU12BMSdNj1F7vdkP/VrYDuCNwBExtRPDYawgSUakzi6qP0iKJpya2BuLvNzXx+XPU49GFuDC5X+SvY0mOw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-darwin-arm64/12.2.2:
+    resolution: {integrity: sha512-JCoGySHKGt+YBk7xRTFGx1QjrnCcwYxIo3yGepcOq64MoiocTM3yllQWeOAJU2/k9MH0+B5E9WUSme4rOCBbpA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.2.2.tgz}
     name: '@next/swc-darwin-arm64'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [darwin]
@@ -4521,10 +4521,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-darwin-x64/12.1.6:
-    resolution: {integrity: sha512-9FptMnbgHJK3dRDzfTpexs9S2hGpzOQxSQbe8omz6Pcl7rnEp9x4uSEKY51ho85JCjL4d0tDLBcXEJZKKLzxNg==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-darwin-x64/12.2.2:
+    resolution: {integrity: sha512-dztDtvfkhUqiqpXvrWVccfGhLe44yQ5tQ7B4tBfnsOR6vxzI9DNPHTlEOgRN9qDqTAcFyPxvg86mn4l8bB9Jcw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-12.2.2.tgz}
     name: '@next/swc-darwin-x64'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [darwin]
@@ -4532,10 +4532,21 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-linux-arm-gnueabihf/12.1.6:
-    resolution: {integrity: sha512-PvfEa1RR55dsik/IDkCKSFkk6ODNGJqPY3ysVUZqmnWMDSuqFtf7BPWHFa/53znpvVB5XaJ5Z1/6aR5CTIqxPw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-freebsd-x64/12.2.2:
+    resolution: {integrity: sha512-JUnXB+2xfxqsAvhFLPJpU1NeyDsvJrKoOjpV7g3Dxbno2Riu4tDKn3kKF886yleAuD/1qNTUCpqubTvbbT2VoA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-freebsd-x64/-/swc-freebsd-x64-12.2.2.tgz}
+    name: '@next/swc-freebsd-x64'
+    version: 12.2.2
+    engines: {node: '>= 10'}
+    cpu: [x64]
+    os: [freebsd]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  registry.npmjs.org/@next/swc-linux-arm-gnueabihf/12.2.2:
+    resolution: {integrity: sha512-XeYC/qqPLz58R4pjkb+x8sUUxuGLnx9QruC7/IGkK68yW4G17PHwKI/1njFYVfXTXUukpWjcfBuauWwxp9ke7Q==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.2.2.tgz}
     name: '@next/swc-linux-arm-gnueabihf'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm]
     os: [linux]
@@ -4543,10 +4554,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-linux-arm64-gnu/12.1.6:
-    resolution: {integrity: sha512-53QOvX1jBbC2ctnmWHyRhMajGq7QZfl974WYlwclXarVV418X7ed7o/EzGY+YVAEKzIVaAB9JFFWGXn8WWo0gQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-linux-arm64-gnu/12.2.2:
+    resolution: {integrity: sha512-d6jT8xgfKYFkzR7J0OHo2D+kFvY/6W8qEo6/hmdrTt6AKAqxs//rbbcdoyn3YQq1x6FVUUd39zzpezZntg9Naw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.2.2.tgz}
     name: '@next/swc-linux-arm64-gnu'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
@@ -4554,10 +4565,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-linux-arm64-musl/12.1.6:
-    resolution: {integrity: sha512-CMWAkYqfGdQCS+uuMA1A2UhOfcUYeoqnTW7msLr2RyYAys15pD960hlDfq7QAi8BCAKk0sQ2rjsl0iqMyziohQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-linux-arm64-musl/12.2.2:
+    resolution: {integrity: sha512-rIZRFxI9N/502auJT1i7coas0HTHUM+HaXMyJiCpnY8Rimbo0495ir24tzzHo3nQqJwcflcPTwEh/DV17sdv9A==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.2.2.tgz}
     name: '@next/swc-linux-arm64-musl'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
@@ -4565,10 +4576,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-linux-x64-gnu/12.1.6:
-    resolution: {integrity: sha512-AC7jE4Fxpn0s3ujngClIDTiEM/CQiB2N2vkcyWWn6734AmGT03Duq6RYtPMymFobDdAtZGFZd5nR95WjPzbZAQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-linux-x64-gnu/12.2.2:
+    resolution: {integrity: sha512-ir1vNadlUDj7eQk15AvfhG5BjVizuCHks9uZwBfUgT5jyeDCeRvaDCo1+Q6+0CLOAnYDR/nqSCvBgzG2UdFh9A==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.2.2.tgz}
     name: '@next/swc-linux-x64-gnu'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
@@ -4576,10 +4587,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-linux-x64-musl/12.1.6:
-    resolution: {integrity: sha512-c9Vjmi0EVk0Kou2qbrynskVarnFwfYIi+wKufR9Ad7/IKKuP6aEhOdZiIIdKsYWRtK2IWRF3h3YmdnEa2WLUag==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-linux-x64-musl/12.2.2:
+    resolution: {integrity: sha512-bte5n2GzLN3O8JdSFYWZzMgEgDHZmRz5wiispiiDssj4ik3l8E7wq/czNi8RmIF+ioj2sYVokUNa/ekLzrESWw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.2.2.tgz}
     name: '@next/swc-linux-x64-musl'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
@@ -4587,10 +4598,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-win32-arm64-msvc/12.1.6:
-    resolution: {integrity: sha512-3UTOL/5XZSKFelM7qN0it35o3Cegm6LsyuERR3/OoqEExyj3aCk7F025b54/707HTMAnjlvQK3DzLhPu/xxO4g==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-win32-arm64-msvc/12.2.2:
+    resolution: {integrity: sha512-ZUGCmcDmdPVSAlwJ/aD+1F9lYW8vttseiv4n2+VCDv5JloxiX9aY32kYZaJJO7hmTLNrprvXkb4OvNuHdN22Jg==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.2.2.tgz}
     name: '@next/swc-win32-arm64-msvc'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [win32]
@@ -4598,10 +4609,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-win32-ia32-msvc/12.1.6:
-    resolution: {integrity: sha512-8ZWoj6nCq6fI1yCzKq6oK0jE6Mxlz4MrEsRyu0TwDztWQWe7rh4XXGLAa2YVPatYcHhMcUL+fQQbqd1MsgaSDA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-win32-ia32-msvc/12.2.2:
+    resolution: {integrity: sha512-v7ykeEDbr9eXiblGSZiEYYkWoig6sRhAbLKHUHQtk8vEWWVEqeXFcxmw6LRrKu5rCN1DY357UlYWToCGPQPCRA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.2.2.tgz}
     name: '@next/swc-win32-ia32-msvc'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [ia32]
     os: [win32]
@@ -4609,10 +4620,10 @@ packages:
     dev: false
     optional: true
 
-  registry.npmjs.org/@next/swc-win32-x64-msvc/12.1.6:
-    resolution: {integrity: sha512-4ZEwiRuZEicXhXqmhw3+de8Z4EpOLQj/gp+D9fFWo6ii6W1kBkNNvvEx4A90ugppu+74pT1lIJnOuz3A9oQeJA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.1.6.tgz}
+  registry.npmjs.org/@next/swc-win32-x64-msvc/12.2.2:
+    resolution: {integrity: sha512-2D2iinWUL6xx8D9LYVZ5qi7FP6uLAoWymt8m8aaG2Ld/Ka8/k723fJfiklfuAcwOxfufPJI+nRbT5VcgHGzHAQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.2.2.tgz}
     name: '@next/swc-win32-x64-msvc'
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [win32]
@@ -7176,6 +7187,14 @@ packages:
       - supports-color
     dev: true
 
+  registry.npmjs.org/@swc/helpers/0.4.2:
+    resolution: {integrity: sha512-556Az0VX7WR6UdoTn4htt/l3zPQ7bsQWK+HqdG4swV7beUCxo/BqmvbOpUkTIm/9ih86LIf1qsUnywNL3obGHw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@swc/helpers/-/helpers-0.4.2.tgz}
+    name: '@swc/helpers'
+    version: 0.4.2
+    dependencies:
+      tslib: registry.npmjs.org/tslib/2.4.0
+    dev: false
+
   registry.npmjs.org/@szmarczak/http-timer/5.0.1:
     resolution: {integrity: sha512-+PmQX0PiAYPMeVYe237LJAYvOMYW1j2rH5YROyS3b4CTVJum34HfRvKvAzozHAQG0TnHNdUfY9nCeUyRAs//cw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@szmarczak/http-timer/-/http-timer-5.0.1.tgz}
     name: '@szmarczak/http-timer'
@@ -8096,7 +8115,6 @@ packages:
       typescript: registry.npmjs.org/typescript/4.7.4
     transitivePeerDependencies:
       - supports-color
-    dev: true
 
   registry.npmjs.org/@typescript-eslint/scope-manager/5.30.7:
     resolution: {integrity: sha512-7BM1bwvdF1UUvt+b9smhqdc/eniOnCKxQT/kj3oXtj3LqnTWCAM0qHRHfyzCzhEfWX0zrW7KqXXeE4DlchZBKw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/@typescript-eslint/scope-manager/-/scope-manager-5.30.7.tgz}
@@ -10472,6 +10490,12 @@ packages:
     name: caniuse-lite
     version: 1.0.30001367
 
+  registry.npmjs.org/caniuse-lite/1.0.30001368:
+    resolution: {integrity: sha512-wgfRYa9DenEomLG/SdWgQxpIyvdtH3NW8Vq+tB6AwR9e56iOIcu1im5F/wNdDf04XlKHXqIx4N8Jo0PemeBenQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001368.tgz}
+    name: caniuse-lite
+    version: 1.0.30001368
+    dev: false
+
   registry.npmjs.org/capital-case/1.0.4:
     resolution: {integrity: sha512-ds37W8CytHgwnhGGTi88pcPyR15qoNkOpYwmMMfnWqqWgESapLqvDx6huFjQ5vqWSn2Z06173XNA7LtMOeUh1A==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/capital-case/-/capital-case-1.0.4.tgz}
     name: capital-case
@@ -12827,6 +12851,7 @@ packages:
     transitivePeerDependencies:
       - eslint-import-resolver-webpack
       - supports-color
+    dev: false
 
   registry.npmjs.org/eslint-config-next/12.2.2_hxadhbs2xogijvk7vq4t2azzbu:
     resolution: {integrity: sha512-oJhWBLC4wDYYUFv/5APbjHUFd0QRFCojMdj/QnMoOEktmeTvwnnoA8F8uaXs0fQgsaTK0tbUxBRv9/Y4/rpxOA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/eslint-config-next/-/eslint-config-next-12.2.2.tgz}
@@ -12935,6 +12960,7 @@ packages:
       tsconfig-paths: registry.npmjs.org/tsconfig-paths/3.14.1
     transitivePeerDependencies:
       - supports-color
+    dev: false
 
   registry.npmjs.org/eslint-import-resolver-typescript/2.7.1_hpmu7kn6tcn2vnxpfzvv33bxmy:
     resolution: {integrity: sha512-00UbgGwV8bSgUv34igBDbTOtKhqoRMy9bFjNehT40bXg6585PNIct8HhXZ0SybqB9rWtXj9crcku8ndDn/gIqQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/eslint-import-resolver-typescript/-/eslint-import-resolver-typescript-2.7.1.tgz}
@@ -12955,7 +12981,6 @@ packages:
       tsconfig-paths: registry.npmjs.org/tsconfig-paths/3.14.1
     transitivePeerDependencies:
       - supports-color
-    dev: true
 
   registry.npmjs.org/eslint-module-utils/2.7.3_f7rggfnq2itgt2uu6gnhkpzzne:
     resolution: {integrity: sha512-088JEC7O3lDZM9xGe0RerkOMd0EjFl+Yvd1jPWIkMT5u3H9+HC34mWWPnqPrN13gieT9pBOO+Qt07Nb/6TresQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/eslint-module-utils/-/eslint-module-utils-2.7.3.tgz}
@@ -13007,10 +13032,10 @@ packages:
       eslint-import-resolver-webpack:
         optional: true
     dependencies:
-      '@typescript-eslint/parser': registry.npmjs.org/@typescript-eslint/parser/5.30.7_he2ccbldppg44uulnyq4rwocfa
+      '@typescript-eslint/parser': registry.npmjs.org/@typescript-eslint/parser/5.30.7_hxadhbs2xogijvk7vq4t2azzbu
       debug: registry.npmjs.org/debug/3.2.7
       eslint-import-resolver-node: registry.npmjs.org/eslint-import-resolver-node/0.3.6
-      eslint-import-resolver-typescript: registry.npmjs.org/eslint-import-resolver-typescript/2.7.1_afl3vkhn63baibzal45igheroq
+      eslint-import-resolver-typescript: registry.npmjs.org/eslint-import-resolver-typescript/2.7.1_hpmu7kn6tcn2vnxpfzvv33bxmy
       find-up: registry.npmjs.org/find-up/2.1.0
     transitivePeerDependencies:
       - supports-color
@@ -13099,7 +13124,6 @@ packages:
       - eslint-import-resolver-typescript
       - eslint-import-resolver-webpack
       - supports-color
-    dev: true
 
   registry.npmjs.org/eslint-plugin-import/2.26.0_w3h2x6a7zgcj3scdfl3yk2yqgq:
     resolution: {integrity: sha512-hYfi3FXaM8WPLf4S1cikh/r4IxnO6zrhZbEGz2b660EJRbuxgpDS5gkCuYgGWg2xxh2rBuIr4Pvhve/7c31koA==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/eslint-plugin-import/-/eslint-plugin-import-2.26.0.tgz}
@@ -13133,6 +13157,7 @@ packages:
       - eslint-import-resolver-typescript
       - eslint-import-resolver-webpack
       - supports-color
+    dev: false
 
   registry.npmjs.org/eslint-plugin-jest/25.7.0_spjkrc7wu2pbudgumo46ximlve:
     resolution: {integrity: sha512-PWLUEXeeF7C9QGKqvdSbzLOiLTx+bno7/HC9eefePfEb257QFHg7ye3dh80AZVkaa/RQsBB1Q/ORQvg2X7F0NQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/eslint-plugin-jest/-/eslint-plugin-jest-25.7.0.tgz}
@@ -19056,11 +19081,11 @@ packages:
       escalade: registry.npmjs.org/escalade/3.1.1
     dev: true
 
-  registry.npmjs.org/next/12.1.6_qugu52izettqdqqm5qcjcltcia:
-    resolution: {integrity: sha512-cebwKxL3/DhNKfg9tPZDQmbRKjueqykHHbgaoG4VBRH3AHQJ2HO0dbKFiS1hPhe1/qgc2d/hFeadsbPicmLD+A==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/next/-/next-12.1.6.tgz}
-    id: registry.npmjs.org/next/12.1.6
+  registry.npmjs.org/next/12.2.2_qugu52izettqdqqm5qcjcltcia:
+    resolution: {integrity: sha512-zAYFY45aBry/PlKONqtlloRFqU/We3zWYdn2NoGvDZkoYUYQSJC8WMcalS5C19MxbCZLUVCX7D7a6gTGgl2yLg==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/next/-/next-12.2.2.tgz}
+    id: registry.npmjs.org/next/12.2.2
     name: next
-    version: 12.1.6
+    version: 12.2.2
     engines: {node: '>=12.22.0'}
     hasBin: true
     peerDependencies:
@@ -19077,25 +19102,28 @@ packages:
       sass:
         optional: true
     dependencies:
-      '@next/env': registry.npmjs.org/@next/env/12.1.6
-      caniuse-lite: registry.npmjs.org/caniuse-lite/1.0.30001367
+      '@next/env': registry.npmjs.org/@next/env/12.2.2
+      '@swc/helpers': registry.npmjs.org/@swc/helpers/0.4.2
+      caniuse-lite: registry.npmjs.org/caniuse-lite/1.0.30001368
       postcss: registry.npmjs.org/postcss/8.4.5
       react: registry.npmjs.org/react/18.2.0
       react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
       styled-jsx: registry.npmjs.org/styled-jsx/5.0.2_lxeixztqul6ae7cp3cpkyxlhzm
+      use-sync-external-store: registry.npmjs.org/use-sync-external-store/1.1.0_react@18.2.0
     optionalDependencies:
-      '@next/swc-android-arm-eabi': registry.npmjs.org/@next/swc-android-arm-eabi/12.1.6
-      '@next/swc-android-arm64': registry.npmjs.org/@next/swc-android-arm64/12.1.6
-      '@next/swc-darwin-arm64': registry.npmjs.org/@next/swc-darwin-arm64/12.1.6
-      '@next/swc-darwin-x64': registry.npmjs.org/@next/swc-darwin-x64/12.1.6
-      '@next/swc-linux-arm-gnueabihf': registry.npmjs.org/@next/swc-linux-arm-gnueabihf/12.1.6
-      '@next/swc-linux-arm64-gnu': registry.npmjs.org/@next/swc-linux-arm64-gnu/12.1.6
-      '@next/swc-linux-arm64-musl': registry.npmjs.org/@next/swc-linux-arm64-musl/12.1.6
-      '@next/swc-linux-x64-gnu': registry.npmjs.org/@next/swc-linux-x64-gnu/12.1.6
-      '@next/swc-linux-x64-musl': registry.npmjs.org/@next/swc-linux-x64-musl/12.1.6
-      '@next/swc-win32-arm64-msvc': registry.npmjs.org/@next/swc-win32-arm64-msvc/12.1.6
-      '@next/swc-win32-ia32-msvc': registry.npmjs.org/@next/swc-win32-ia32-msvc/12.1.6
-      '@next/swc-win32-x64-msvc': registry.npmjs.org/@next/swc-win32-x64-msvc/12.1.6
+      '@next/swc-android-arm-eabi': registry.npmjs.org/@next/swc-android-arm-eabi/12.2.2
+      '@next/swc-android-arm64': registry.npmjs.org/@next/swc-android-arm64/12.2.2
+      '@next/swc-darwin-arm64': registry.npmjs.org/@next/swc-darwin-arm64/12.2.2
+      '@next/swc-darwin-x64': registry.npmjs.org/@next/swc-darwin-x64/12.2.2
+      '@next/swc-freebsd-x64': registry.npmjs.org/@next/swc-freebsd-x64/12.2.2
+      '@next/swc-linux-arm-gnueabihf': registry.npmjs.org/@next/swc-linux-arm-gnueabihf/12.2.2
+      '@next/swc-linux-arm64-gnu': registry.npmjs.org/@next/swc-linux-arm64-gnu/12.2.2
+      '@next/swc-linux-arm64-musl': registry.npmjs.org/@next/swc-linux-arm64-musl/12.2.2
+      '@next/swc-linux-x64-gnu': registry.npmjs.org/@next/swc-linux-x64-gnu/12.2.2
+      '@next/swc-linux-x64-musl': registry.npmjs.org/@next/swc-linux-x64-musl/12.2.2
+      '@next/swc-win32-arm64-msvc': registry.npmjs.org/@next/swc-win32-arm64-msvc/12.2.2
+      '@next/swc-win32-ia32-msvc': registry.npmjs.org/@next/swc-win32-ia32-msvc/12.2.2
+      '@next/swc-win32-x64-msvc': registry.npmjs.org/@next/swc-win32-x64-msvc/12.2.2
     transitivePeerDependencies:
       - '@babel/core'
       - babel-plugin-macros
@@ -25830,6 +25858,17 @@ packages:
       graphql: registry.npmjs.org/graphql/15.8.0
       react: registry.npmjs.org/react/18.2.0
       wonka: registry.npmjs.org/wonka/4.0.15
+    dev: false
+
+  registry.npmjs.org/use-sync-external-store/1.1.0_react@18.2.0:
+    resolution: {integrity: sha512-SEnieB2FPKEVne66NpXPd1Np4R1lTNKfjuy3XdIoPQKYBAFdzbzSZlSn1KJZUiihQLQC5Znot4SBz1EOTBwQAQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/use-sync-external-store/-/use-sync-external-store-1.1.0.tgz}
+    id: registry.npmjs.org/use-sync-external-store/1.1.0
+    name: use-sync-external-store
+    version: 1.1.0
+    peerDependencies:
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      react: registry.npmjs.org/react/18.2.0
     dev: false
 
   registry.npmjs.org/use/3.1.1:
